@@ -1,0 +1,223 @@
+.grande{
+	position: absolute;
+height: 700px;
+width: 600px;
+background-color: red;
+border-radius: 3px;
+	top: 20px;
+	left: 400px;
+}
+.hi{
+position: absolute;
+height: 10px;
+width: 250px;
+background-color: #F9D11A;
+top: 10px;
+left: 70px
+}
+.hi2{
+position: absolute;
+height: 10px;
+width: 220px;
+background-color: #F98A1A;
+top: 10px;
+left: 300px
+}
+.hi3{
+position: absolute;
+height: 50px;
+width: 100px;
+background: rgba(249, 138, 26,0);
+top: 25px;
+left: 240px
+}
+.texto{
+position: absolute;
+top: 5px;
+left: 1px;
+font-size: 30px;
+color: yellow;
+font-family:Times New Roman;}
+.hi4{
+position: absolute;
+height: 50px;
+width: 230px;
+background: rgba(249, 138, 26,0);
+top: 75px;
+left: 190px;
+}
+.texto2{
+position: absolute;
+top: 5px;
+left: 10px;
+font-size: 20px;
+color: yellow;
+font-family:Showcard Gothic;
+}
+.hi5{
+position: absolute;
+height: 50px;
+width: 230px;
+background: rgba(249, 138, 26,0);
+top: 125px;
+left: 230px;
+}
+.texto1{
+position: absolute;
+top: 5px;
+left: 10px;
+font-size: 20px;
+color: white;
+font-family:Broadway;
+}
+.hi6{
+position: absolute;
+height: 50px;
+width: 230px;
+background: rgba(249, 138, 26,0);
+top: 150px;
+left: 200px;
+}
+.texto3{
+position: absolute;
+top: 5px;
+left: 10px;
+font-size: 30px;
+color: white;
+font-family:Broadway;}
+.hi7{
+position: absolute;
+height: 50px;
+width: 230px;
+background: rgba(249, 138, 26,0);
+top: 200px;
+left: 190px;
+}
+.texto4{
+position: absolute;
+top: 5px;
+left: 10px;
+font-size: 20px;
+color: yellow;
+font-family:Showcard Gothic;
+}
+.hi8{
+position: absolute;
+height: 50px;
+width: 230px;
+background: rgba(249, 138, 26,0);
+top: 220px;
+left: 220px;
+}
+.texto5{
+position: absolute;
+top: 5px;
+left: 10px;
+font-size: 20px;
+color: yellow;
+font-family:Showcard Gothic;
+}
+.foto{
+position: absolute;
+top: 350px;
+left: 200px;
+width: 100px;
+height: 100px;
+background: url(jas.png);
+background-size: cover;
+z-index: 5;
+transform: rotate(330deg);
+}
+.foto1{
+position: absolute;
+top: 180px;
+left: 170px;
+width: 250px;
+height: 250px;
+background: url(a.png);
+background-size: cover;
+z-index: 2;
+}
+.foto2{
+position: absolute;
+top: 300px;
+left: 170px;
+width: 200px;
+height: 200px;
+background: url(j.png);
+background-size: cover;
+z-index: 4;
+transform: rotate(0deg);
+}
+.hi9{position: absolute;
+height: 50px;
+width: 260px;
+background: rgba(249, 138, 26,0);
+top: 220px;
+left: 1px;}
+.foto3{
+position: absolute;
+top: 430px;
+left: 170px;
+width: 200px;
+height: 200px;
+background: url(si.png);
+background-size: cover;
+z-index: 4;
+transform: rotate(270deg);
+}.foto4{
+position: absolute;
+top: 430px;
+left: 500px;
+width: 100px;
+height: 100px;
+background: url(aaa.jpg);
+background-size: cover;
+border-radius: 3000px;
+border:solid 3px;
+z-index: 4;
+}
+.foto5{
+position: absolute;
+top: 370px;
+left: 500px;
+width: 100px;
+height: 100px;
+background: url(br.jpg);
+background-size: cover;
+border-radius: 3000px;
+border:solid 3px;
+}
+.foto6{
+position: absolute;
+top: 540px;
+left: 500px;
+width: 100px;
+height: 100px;
+background: url(xxx.jpg);
+background-size: cover;
+border-radius: 3000px;
+border:solid 3px;
+}
+.foto7{
+position: absolute;
+top: 490px;
+left: 500px;
+width: 100px;
+height: 100px;
+background: url(nm.png);
+background-size: cover;
+border-radius: 3000px;
+border:solid 3px;
+}
+.foto8{
+position: absolute;
+top: 290px;
+left: 500px;
+width: 100px;
+height: 100px;
+background: url(vv.jpg);
+background-size: cover;
+border-radius: 3000px;
+border:solid 3px;
+}
